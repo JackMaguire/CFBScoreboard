@@ -48,6 +48,12 @@ def collect_info(game, num):
     header = x[ 0 ]
     header_tokens = header.split()
 
+    '''
+    Header is [rank][team name][record]
+    rank can be absent
+    team name can have spaces
+    '''
+
     team_name = "";
     if not is_number( header_tokens[ 0 ] ):
         team_name = header_tokens[ 0 ] + " "
@@ -61,8 +67,8 @@ def collect_info(game, num):
 
 
 def display( game ):
-    away_team, away_score = collect_info(game, 0)
-    home_team, home_score = collect_info(game, 1)
+    away_team, away_score = collect_info( game, 0 )
+    home_team, home_score = collect_info( game, 1 )
     print( away_team, away_score )
     print( home_team, home_score )
 
