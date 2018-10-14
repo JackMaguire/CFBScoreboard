@@ -1,0 +1,170 @@
+                 1  2  3  4   T
+0     Rams  5-0  6  7  0  -  13
+1  Broncos  2-3  3  0  0  -   3
+      0                                                1
+0  Last  Kickoff  15:00 Kickoff by B. McManus, Touchback
+             0
+0  Gametracker
+                1  2  3  4   T
+0  Ravens  3-2  7  7  -  -  14
+1  Titans  3-2  0  0  -  -   0
+      0                 1
+0  Last  1ST & 10 on 0:04
+  Unnamed: 0                            RAVENS                    TITANS
+0       PASS   J. Flacco  156 YDs, 1 TD, 1 INT        M. Mariota  81 YDs
+1       RUSH   A. Collins  9 ATT, 22 YDs, 1 TD   D. Henry  4 ATT, 11 YDs
+2        REC  M. Crabtree  4 REC, 72 YDs, 1 TD  T. Sharpe  2 REC, 33 YDs
+             0            1
+0  Gametracker  Stream Live
+                  1   2  3  4   T
+0  Jaguars  3-2   0   0  -  -   0
+1  Cowboys  2-3  10  14  -  -  24
+      0                                                  1
+0  Last  3RD & 1 on JAC 34  0:11 B. Bortles pass to D. ...
+             0            1
+0  Gametracker  Stream Live
+                  1   2  3  4   T
+0  Seahawks  3-3  7  10  3  7  27
+1   Raiders  1-5  0   0  0  3   3
+  Unnamed: 0                          SEAHAWKS                    RAIDERS
+0       PASS  R. Wilson  222 YDs, 3 TDs, 1 INT           D. Carr  142 YDs
+1       RUSH         C. Carson  14 ATT, 59 YDs   M. Lynch  13 ATT, 45 YDs
+2        REC         D. Baldwin  6 REC, 91 YDs  J. Richard  7 REC, 48 YDs
+           0      1
+0  Box Score  Recap
+                   1  2  3  4   T
+0  Panthers  3-2   0  6  3  8  17
+1  Redskins  3-2  14  3  0  6  23
+  Unnamed: 0                          PANTHERS                       REDSKINS
+0       PASS  C. Newton  275 YDs, 2 TDs, 1 INT       A. Smith  163 YDs, 2 TDs
+1       RUSH          C. Newton  9 ATT, 43 YDs    A. Peterson  17 ATT, 97 YDs
+2        REC  D. Funchess  5 REC, 74 YDs, 1 TD  V. Davis  3 REC, 48 YDs, 1 TD
+           0      1
+0  Box Score  Recap
+               0
+0  More NFL News
+                    1   2  3   4   T
+0  Buccaneers  2-3  6   7  3  13  29
+1     Falcons  2-4  7  17  0  10  34
+  Unnamed: 0                          BUCCANEERS                     FALCONS
+0       PASS  J. Winston  395 YDs, 4 TDs, 2 INTs     M. Ryan  354 YDs, 3 TDs
+1       RUSH           P. Barber  13 ATT, 82 YDs  T. Coleman  10 ATT, 35 YDs
+2        REC         A. Humphries  3 REC, 82 YDs   J. Jones  10 REC, 143 YDs
+           0      1
+0  Box Score  Recap
+                1   2   3   4   T
+0  Colts  1-5   7   6   7  14  34
+1   Jets  3-3  10  13  10   9  42
+  Unnamed: 0                            COLTS  \
+0       PASS  A. Luck  301 YDs, 4 TDs, 3 INTs   
+1       RUSH          M. Mack  12 ATT, 89 YDs   
+2        REC    E. Ebron  4 REC, 71 YDs, 1 TD   
+
+                                JETS  
+0  S. Darnold  280 YDs, 2 TDs, 1 INT  
+1          B. Powell  16 ATT, 59 YDs  
+2           J. Kearse  9 REC, 94 YDs  
+           0      1
+0  Box Score  Recap
+                    1   2  3   4   T
+0  Steelers  3-2-1  0  14  3  11  28
+1     Bengals  4-2  7   7  0   7  21
+  Unnamed: 0                           STEELERS  \
+0       PASS   B. Roethlisberger  369 YDs, 1 TD   
+1       RUSH  J. Conner  19 ATT, 111 YDs, 2 TDs   
+2        REC  J. Smith-Schuster  7 REC, 111 YDs   
+
+                          BENGALS  
+0       A. Dalton  229 YDs, 2 TDs  
+1  J. Mixon  11 ATT, 64 YDs, 1 TD  
+2         A. Green  7 REC, 85 YDs  
+           0      1
+0  Box Score  Recap
+                  1   2   3  4   T
+0  Chargers  4-2  7  14  14  3  38
+1  Browns  2-3-1  0   6   0  8  14
+  Unnamed: 0                             CHARGERS  \
+0       PASS     P. Rivers  207 YDs, 2 TDs, 1 INT   
+1       RUSH    M. Gordon  18 ATT, 132 YDs, 3 TDs   
+2        REC  Ty. Williams  3 REC, 118 YDs, 2 TDs   
+
+                               BROWNS  
+0  B. Mayfield  238 YDs, 1 TD, 2 INTs  
+1           D. Johnson  2 ATT, 36 YDs  
+2            D. Ratley  6 REC, 82 YDs  
+           0      1
+0  Box Score  Recap
+                1  2  3   4   T
+0   Bills  2-4  0  0  6   7  13
+1  Texans  3-3  7  3  0  10  20
+  Unnamed: 0                       BILLS                            TEXANS
+0       PASS            J. Allen  84 YDs  D. Watson  177 YDs, 1 TD, 2 INTs
+1       RUSH    L. McCoy  16 ATT, 73 YDs         L. Miller  15 ATT, 46 YDs
+2        REC  K. Benjamin  2 REC, 43 YDs   D. Hopkins  5 REC, 63 YDs, 1 TD
+           0      1
+0  Box Score  Recap
+                    1  2   3  4   T
+0  Cardinals  1-5   3  7   0  7  17
+1  Vikings  3-2-1  10  3  14  0  27
+  Unnamed: 0                         CARDINALS  \
+0       PASS          J. Rosen  240 YDs, 1 INT   
+1       RUSH  D. Johnson  18 ATT, 55 YDs, 1 TD   
+2        REC            C. Kirk  6 REC, 77 YDs   
+
+                             VIKINGS  
+0   K. Cousins  233 YDs, 1 TD, 1 INT  
+1   L. Murray  24 ATT, 155 YDs, 1 TD  
+2  A. Thielen  11 REC, 123 YDs, 1 TD  
+           0      1
+0  Box Score  Recap
+                  1  2   3   4  OT   T
+0     Bears  3-2  0  0  21   7   0  28
+1  Dolphins  4-2  7  0   6  15   3  31
+  Unnamed: 0                               BEARS  \
+0       PASS  M. Trubisky  316 YDs, 3 TDs, 1 INT   
+1       RUSH           J. Howard  14 ATT, 69 YDs   
+2        REC          T. Gabriel  5 REC, 110 YDs   
+
+                              DOLPHINS  
+0  B. Osweiler  380 YDs, 3 TDs, 2 INTs  
+1             F. Gore  15 ATT, 101 YDs  
+2     A. Wilson  6 REC, 155 YDs, 2 TDs  
+           0      1
+0  Box Score  Recap
+               0      1
+0    Chiefs  5-0  o58.5
+1  Patriots  3-2   -3.5
+  Unnamed: 0                               CHIEFS  \
+0       PASS  P. Mahomes  1513 YD, 14 TDs, 2 INTs   
+1       RUSH      K. Hunt  93 ATT, 376 YDs, 4 TDs   
+2        REC      T. Hill  27 REC, 425 YDs, 3 TDs   
+
+                               PATRIOTS  
+0     T. Brady  1259 YD, 12 TDs, 6 INTs  
+1     S. Michel  67 ATT, 294 YDs, 2 TDs  
+2  R. Gronkowski  23 REC, 308 YDs, 1 TD  
+         0              1        2
+0  Preview  Game Forecast  StubHub
+                0    1
+0      49ers  1-4  o46
+1  Packers  2-2-1   -9
+  Unnamed: 0                                49ERS  \
+0       PASS  C. Beathard  647 YDs, 4 TDs, 4 INTs   
+1       RUSH     M. Breida  49 ATT, 369 YDs, 1 TD   
+2        REC     G. Kittle  23 REC, 399 YDs, 1 TD   
+
+                              PACKERS  
+0  A. Rodgers  1572 YD, 10 TDs, 1 INT  
+1        J. Williams  53 ATT, 195 YDs  
+2    D. Adams  37 REC, 425 YDs, 4 TDs  
+         0              1        2
+0  Preview  Game Forecast  StubHub
+                 1   2  3  4   T
+0  Eagles  3-3  14  10  7  3  34
+1  Giants  1-5   3   3  7  0  13
+  Unnamed: 0                        EAGLES                             GIANTS
+0       PASS      C. Wentz  278 YDs, 3 TDs         E. Manning  281 YDs, 1 INT
+1       RUSH  W. Smallwood  18 ATT, 51 YDs  S. Barkley  13 ATT, 130 YDs, 1 TD
+2        REC     N. Agholor  3 REC, 91 YDs          S. Barkley  9 REC, 99 YDs
+           0      1
+0  Box Score  Recap
