@@ -63,6 +63,9 @@ def collect_info(game, num):
     for ind in range ( 1, len( header_tokens ) - 1 ):
         team_name += header_tokens[ ind ] + " "
 
+    #remove final space
+    team_name = team_name[:-1]
+
     score = x[ len(x)-1 ]
 
     return team_name, score
