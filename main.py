@@ -1,5 +1,7 @@
 #influenced by https://github.com/mcmclean/cfb-score-scraper/blob/master/scraper.py
 
+#TODO check this out: https://learn.adafruit.com/connecting-a-16x32-rgb-led-matrix-panel-to-a-raspberry-pi/experimental-python-code
+
 import pandas as pd
 import re
 import csv
