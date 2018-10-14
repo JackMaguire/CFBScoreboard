@@ -12,6 +12,8 @@ fbs_url="https://www.cbssports.com/college-football/scoreboard/FBS/"
 b1g_url="https://www.cbssports.com/college-football/scoreboard/BIG10/"
 top25_url="https://www.cbssports.com/college-football/scoreboard/top25/"
 
+only_care_about_msu = True
+
 #for a specific week:
 #"http://www.cbssports.com/college-football/scoreboard/FBS/" + str(year) + "/regular/" + str(week)
 
@@ -72,11 +74,16 @@ def display( game ):
     print( away_team, away_score )
     print( home_team, home_score )
 
-
+def game_contains_team( game, team_name ):
+    away_team, away_score = collect_info( game, 0 )
+    home_team, home_score = collect_info( game, 1 )
+    return team_name == away_team or team_name == home_team
 
 
 update()
 for game in games_list:
+    if only_care_about_msu and not game_contains_team( game, "Michigan State" ):
+        continue
     display( game )
     time.sleep(5)
     print( "" )
